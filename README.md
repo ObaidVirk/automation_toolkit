@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ObaidVirk/automation_toolkit)
+![GitHub contributors](https://img.shields.io/github/contributors/ObaidVirk/automation_toolkit)
+![GitHub stars](https://img.shields.io/github/stars/ObaidVirk/automation_toolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ObaidVirk/automation_toolkit?style=social)
+
 # Smart Productivity Automation Toolkit
 
 A Python-based command-line automation toolkit that helps improve productivity by automating common daily tasks. This project demonstrates practical Python skills such as file handling, web scraping, API integration, and error handling.
